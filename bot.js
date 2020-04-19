@@ -4,7 +4,7 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("700725737040248882")
+let channel =     client.channels.get("701301989186732076")
 setInterval(function() {
 channel.send(`لا تمسح الروم`);
 }, 30)
